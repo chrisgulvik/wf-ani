@@ -1,0 +1,14 @@
+bin/
+work/
+*.img
+data/
+*.pyc
+results/
+testing/
+testing*
+.DS_Store
+.nextflow*
+slackreport.json
+adaptivecard.json
+devcontainer.json
+email_template.html
